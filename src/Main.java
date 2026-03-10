@@ -6,5 +6,7 @@ public class Main {
         // 查看 IntelliJ IDEA 建议如何修正。
         String version = System.getProperty("java.version");
         System.out.println(version);
+
+        System.out.println("本地分支1改动内容");
     }
 }
